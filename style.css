@@ -1,0 +1,68 @@
+.navcontainerfluid{
+    background-color: black;
+}
+.main-body{
+    background-color: black;
+}
+.logo-adjust{
+    height: 45px;
+}
+.btndesign{
+    color: white;
+    font-size: xx-large;
+}
+.bgcolor{
+    background-color: black;
+}
+.slidewidth{
+    height: 15%;
+}
+.brosecategory{
+display: inline-flex;
+width: 100%;
+justify-content: center;
+align-items: center;
+margin-top: 25px;
+
+}
+.textbroos{
+    width: 30%;
+}
+.hrbroos{
+    width: 70%;
+}
+.textbroos h1{
+    color: white    ;
+}
+.hr1{
+    border: 2px solid white;
+    color: white;
+  border-radius: 5px;
+    color: rgb(235, 225, 225);
+    text-align: center;
+    opacity: 0.5;
+
+}
+.kfcpic{
+    display: flex;
+    justify-content: center;
+    height: 20%;
+    margin-top: 15px;
+    
+}
+.img1{
+    border-style: dashed;
+    color: white;
+    margin-left: 15px;
+  width: 20%;
+}
+.img1 img{
+    height: 225px;
+width: 215px;
+}
+.btnpic1{
+    border-radius: 47px;
+}
+.cardbold{
+    text-decoration: none;
+}
